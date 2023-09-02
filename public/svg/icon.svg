@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="9.3691648"
+     inkscape:cy="12.639534"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1208">
+      <stop
+         style="stop-color:#00e8ff;stop-opacity:1;"
+         offset="0"
+         id="stop1204" />
+      <stop
+         style="stop-color:#002580;stop-opacity:1;"
+         offset="1"
+         id="stop1206" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1177">
+      <stop
+         style="stop-color:#00fffa;stop-opacity:1;"
+         offset="0"
+         id="stop1173" />
+      <stop
+         style="stop-color:#004cff;stop-opacity:1;"
+         offset="1"
+         id="stop1175" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect555"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.3,0,1 @ F,0,0,1,0,0.3,0,1 @ F,0,0,1,0,0.3,0,1 @ F,0,0,1,0,0.3,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0.3"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect443"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.3,0,1 @ F,0,0,1,0,0.3,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.3,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0.3"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1177"
+       id="linearGradient1179"
+       x1="0.64492184"
+       y1="3.9026041"
+       x2="4.5144529"
+       y2="7.0610676"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1208"
+       id="linearGradient1210"
+       x1="7.5571613"
+       y1="1.5875"
+       x2="3.6876302"
+       y2="5.6223955"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect552"
+       style="fill:url(#linearGradient1210);fill-rule:evenodd;stroke-width:0.764998;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;fill-opacity:1"
+       d="M 6.3126592,0.53012082 A 0.30304748,0.30641627 84.685401 0 0 6.1039331,0.63573042 L 2.8733956,4.3830299 a 0.30304748,0.30641627 84.685401 0 0 0.033564,0.4271668 L 4.7309547,6.3475773 A 0.30304748,0.30641627 84.685401 0 0 5.1625671,6.313425 L 8.3931045,2.5661255 A 0.30304748,0.30641627 84.685401 0 0 8.3595405,2.1389586 L 6.5355454,0.601578 A 0.30304748,0.30641627 84.685401 0 0 6.3126592,0.53012082 Z" />
+    <path
+       id="rect286"
+       style="fill:url(#linearGradient1179);fill-rule:evenodd;stroke-width:0.765;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;fill-opacity:1"
+       d="M 1.7071579,2.9543112 A 0.39079604,0.38644683 0 0 0 1.4075995,3.0914398 L 0.09223532,4.6338043 A 0.39079604,0.38644683 0 0 0 0.1393569,5.1789909 l 3.1995525,2.667352 A 0.39079604,0.38644683 0 0 0 3.889558,7.8004116 l 1.5617426,-1.832598 0.00539,-0.00599 0.5371851,-0.658351 C 5.5873528,5.5941345 5.150032,5.6369572 4.7808283,5.3986629 L 1.9582482,3.0455084 A 0.39079604,0.38644683 0 0 0 1.7071579,2.9543112 Z" />
+  </g>
+</svg>
